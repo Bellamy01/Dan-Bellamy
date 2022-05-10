@@ -1,5 +1,5 @@
 ```
-👋 Hi, my name is BIRAMAHIRE Dan Bellamy and I'm a Web Developer🔰😉
+👋 Hi, my name is BIRAMAHIRE Dan Bellamy and I'm a Software Developer🔰😉
 👀 I’m interested in Web Technology👩‍💻 and Web Designing💻.
 🏫 I’m currently learning Web Development on both Front-end🌀 and Back-end🌠 sides.
 💫 I’m looking to collaborate on data science🔭,innovative ideas💡 and interesting project🎦.
